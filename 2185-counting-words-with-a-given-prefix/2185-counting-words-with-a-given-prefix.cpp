@@ -3,7 +3,7 @@ public:
     int prefixCount(vector<string>& words, string pref) {
         int cnt=0;
         for(string& word:words){
-            if(word.length()>=pref.length() && word.compare(0,pref.length(),pref)==0)   cnt++;
+            if(word.length()>=pref.length() && word.starts_with(pref))   cnt++;
         }
         return cnt;
     }
