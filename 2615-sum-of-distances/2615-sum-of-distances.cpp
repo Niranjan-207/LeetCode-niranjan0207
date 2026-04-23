@@ -1,37 +1,30 @@
 class Solution {
+
 public:
+    #define ll long long
     vector<long long> distance(vector<int>& nums) {
         int n=nums.size();
-        vector<long long> ans(n,0);
+        vector<ll> ans(n,0);
 
-        unordered_map<int,pair<long long,int>> mp;
+        unordered_map<int,pair<ll,ll>> mp;
         for(int i=0;i<n;i++){
             int num=nums[i];
-
-            if(mp.find(num)==mp.end()){
-                mp[num]={i,1};
-            }else{
-                long long sum=mp[num].first;
-                int cnt=mp[num].second;
-                ans[i]+=((1ll*cnt*i)-sum);
-                mp[num].first+=i;
-                mp[num].second++;
-            }
+            auto& [sum,cnt]=mp[num];
+            ans[i]+=((1ll*cnt*i)-sum);
+            sum+=i;
+            cnt++;
         }
+
         mp.clear();
+
         for(int i=n-1;i>=0;i--){
             int num=nums[i];
-
-            if(mp.find(num)==mp.end()){
-                mp[num]={i,1};
-            }else{
-                long long sum=mp[num].first;
-                int cnt=mp[num].second;
-                ans[i]+=(sum-(1ll*cnt*i));
-                mp[num].first+=i;
-                mp[num].second++;
-            }
+            auto& [sum,cnt]=mp[num];
+            ans[i]+=(sum-(1ll*cnt*i));
+            sum+=i;
+            cnt++;
         }
+        
         return ans;
     }
 };
