@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0005-longest-palindromic-substring) |
 | [0415-add-strings](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0415-add-strings) |
+| [0482-license-key-formatting](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0482-license-key-formatting) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2255-count-prefixes-of-a-given-string) |
