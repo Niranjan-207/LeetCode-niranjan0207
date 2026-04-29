@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0233-number-of-digit-one) |
 | [0415-add-strings](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0415-add-strings) |
 | [0728-self-dividing-numbers](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0728-self-dividing-numbers) |
+| [1012-numbers-with-repeated-digits](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1012-numbers-with-repeated-digits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2376-count-special-integers](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2376-count-special-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2396-strictly-palindromic-number) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0233-number-of-digit-one) |
 | [0740-delete-and-earn](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0740-delete-and-earn) |
+| [1012-numbers-with-repeated-digits](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1012-numbers-with-repeated-digits) |
 | [2376-count-special-integers](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2376-count-special-integers) |
 ## Prefix Sum
 |  |
