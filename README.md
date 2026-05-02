@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0494-target-sum](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0518-coin-change-ii) |
 | [0740-delete-and-earn](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0740-delete-and-earn) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0518-coin-change-ii) |
 | [0740-delete-and-earn](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0740-delete-and-earn) |
 | [0788-rotated-digits](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0788-rotated-digits) |
@@ -174,4 +176,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0039-combination-sum) |
+| [0494-target-sum](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
