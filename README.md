@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0233-number-of-digit-one) |
+| [0279-perfect-squares](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0279-perfect-squares) |
 | [0396-rotate-function](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0396-rotate-function) |
 | [0415-add-strings](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0415-add-strings) |
 | [0728-self-dividing-numbers](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0728-self-dividing-numbers) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0233-number-of-digit-one) |
+| [0279-perfect-squares](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0279-perfect-squares) |
 | [0396-rotate-function](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0416-partition-equal-subset-sum) |
 | [0740-delete-and-earn](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0740-delete-and-earn) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0279-perfect-squares) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Union-Find
