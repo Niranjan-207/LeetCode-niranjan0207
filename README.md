@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0221-maximal-square) |
 | [0396-rotate-function](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0396-rotate-function) |
+| [0416-partition-equal-subset-sum](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0740-delete-and-earn](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0740-delete-and-earn) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0233-number-of-digit-one) |
 | [0396-rotate-function](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0396-rotate-function) |
+| [0416-partition-equal-subset-sum](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0416-partition-equal-subset-sum) |
 | [0740-delete-and-earn](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0740-delete-and-earn) |
 | [0788-rotated-digits](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0788-rotated-digits) |
 | [1012-numbers-with-repeated-digits](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1012-numbers-with-repeated-digits) |
