@@ -2,8 +2,8 @@ class Solution {
 public:
     bool f(int idx,vector<int>& nums,double sum,vector<vector<int>>& dp){
         if(sum==0)  return true;
-        if(idx==0 && nums[0]==sum)  return true;
-        if(idx<=0)  return false;
+        //if(idx==0 && nums[0]==sum)  return true;
+        if(idx<0)  return false;
 
         if(dp[idx][sum]!=-1)    return dp[idx][sum];
 
