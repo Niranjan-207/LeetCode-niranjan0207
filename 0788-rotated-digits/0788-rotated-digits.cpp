@@ -10,7 +10,7 @@ public:
             string s=to_string(i);
             bool flag=true;
             bool can=false;
-            for(char c:s){
+            for(char& c:s){
                 if(sr.find(c)==sr.end())   can=true;
                 if(se.find(c)!=se.end()){
                     flag=false;
