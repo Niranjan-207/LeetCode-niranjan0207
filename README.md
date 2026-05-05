@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2255-count-prefixes-of-a-given-string) |
@@ -198,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1129-shortest-path-with-alternating-colors) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
