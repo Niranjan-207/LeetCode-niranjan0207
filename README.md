@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0155-min-stack) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -215,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0061-rotate-list) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
