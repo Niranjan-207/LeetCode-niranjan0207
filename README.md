@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0005-longest-palindromic-substring) |
+| [0061-rotate-list](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0061-rotate-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2396-strictly-palindromic-number) |
@@ -203,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
