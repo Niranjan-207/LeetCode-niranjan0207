@@ -3,12 +3,12 @@ public:
     string minRemoveToMakeValid(string s) {
         stack<int> st;
         for(int i=0;i<s.length();i++){
-            char c=s[i];
+            char& c=s[i];
             if(c=='(')  st.push(i);
             else if(c==')'){
                 if(st.empty())  st.push(i);
                 else{
-                    char to=s[st.top()];
+                    char& to=s[st.top()];
                     if(c==')' && to=='(')   st.pop();
                     else    st.push(i);
                 }
