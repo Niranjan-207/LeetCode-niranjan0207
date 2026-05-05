@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0482-license-key-formatting) |
 | [0796-rotate-string](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1143-longest-common-subsequence) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
