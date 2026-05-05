@@ -6,13 +6,13 @@ public:
     }
     
     void push(int val) {
-        if(st.empty()){
-            st.push(val);
-            mst.push(val);
-            return;
-        }
         st.push(val);
-        mst.push(min(mst.top(),val));
+        if(mst.empty()){
+            mst.push(val);
+        }else{
+            mst.push(min(mst.top(),val));
+        }
+        
     }
     
     void pop() {
