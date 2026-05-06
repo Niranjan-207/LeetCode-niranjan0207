@@ -176,11 +176,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0226-invert-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0322-coin-change) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1129-shortest-path-with-alternating-colors) |
@@ -235,4 +237,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0084-largest-rectangle-in-histogram) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
