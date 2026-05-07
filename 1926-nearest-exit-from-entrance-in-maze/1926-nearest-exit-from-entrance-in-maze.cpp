@@ -15,25 +15,26 @@ public:
 
         while(!q.empty()){
             int qn=q.size();
-            
+            cnt++;
             for(int i=0;i<qn;i++){
                 cout<<cnt<<" ";
                 auto [x,y]=q.front();
                 q.pop();
 
-                if((x==0 || x==n-1 || y==0 || y==m-1) && (x!=ex || y!=ey) )    return cnt;
+                
 
                 for(int i=0;i<4;i++){
                     int nx=x+X[i];
                     int ny=y+Y[i];
 
                     if(nx<n && nx>=0 && ny<m && ny>=0 && !vis[nx][ny] && maze[nx][ny]=='.'){
+                        if((nx==0 || nx==n-1 || ny==0 || ny==m-1) && (nx!=ex || ny!=ey) )    return cnt;
                         q.push({nx,ny});
                         vis[nx][ny]=true;
                     }
                 }
             }
-            cnt++;
+            
             
         }
         return -1;
