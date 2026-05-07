@@ -15,13 +15,13 @@ public:
 
         while(!q.empty()){
             int qn=q.size();
-            cnt++;
+            
             for(int i=0;i<qn;i++){
                 cout<<cnt<<" ";
                 auto [x,y]=q.front();
                 q.pop();
 
-                if((x==0 || x==n-1 || y==0 || y==m-1) && (x!=ex || y!=ey) )    return cnt-1;
+                if((x==0 || x==n-1 || y==0 || y==m-1) && (x!=ex || y!=ey) )    return cnt;
 
                 for(int i=0;i<4;i++){
                     int nx=x+X[i];
@@ -33,6 +33,7 @@ public:
                     }
                 }
             }
+            cnt++;
             
         }
         return -1;
