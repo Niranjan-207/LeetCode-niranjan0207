@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0048-rotate-image) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0084-largest-rectangle-in-histogram) |
+| [0135-candy](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0322-coin-change) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0135-candy) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Trie
