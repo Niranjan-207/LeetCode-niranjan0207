@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0542-01-matrix) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0740-delete-and-earn) |
 | [0934-shortest-bridge](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0934-shortest-bridge) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1043-partition-array-for-maximum-sum) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3488-closest-equal-element-queries](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3488-closest-equal-element-queries) |
 ## Sorting
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0542-01-matrix) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0740-delete-and-earn) |
 | [0788-rotated-digits](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0788-rotated-digits) |
 | [1012-numbers-with-repeated-digits](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1012-numbers-with-repeated-digits) |
@@ -274,4 +277,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0543-diameter-of-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1302-deepest-leaves-sum) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
