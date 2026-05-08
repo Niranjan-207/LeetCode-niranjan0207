@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2396-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2485-find-the-pivot-integer) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2615-sum-of-distances) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3488-closest-equal-element-queries](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3488-closest-equal-element-queries) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3660-jump-game-ix](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3660-jump-game-ix) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2615-sum-of-distances) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3488-closest-equal-element-queries](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3488-closest-equal-element-queries) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Binary Search
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1654-minimum-jumps-to-reach-home](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Union-Find
 |  |
 | ------- |
@@ -289,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Number Theory
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
