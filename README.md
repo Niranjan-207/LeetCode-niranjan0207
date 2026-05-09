@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0415-add-strings) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1914-cyclically-rotating-a-grid) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Array
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-single-threaded-cpu](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1834-single-threaded-cpu) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1914-cyclically-rotating-a-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1914-cyclically-rotating-a-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Depth-First Search
