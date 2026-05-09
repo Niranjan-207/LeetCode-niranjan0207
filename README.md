@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0005-longest-palindromic-substring) |
 | [0415-add-strings](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0415-add-strings) |
 | [0482-license-key-formatting](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0482-license-key-formatting) |
+| [0692-top-k-frequent-words](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0542-01-matrix) |
+| [0692-top-k-frequent-words](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0692-top-k-frequent-words) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0740-delete-and-earn) |
 | [0934-shortest-bridge](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0934-shortest-bridge) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0692-top-k-frequent-words](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0692-top-k-frequent-words) |
 | [0740-delete-and-earn](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0740-delete-and-earn) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1654-minimum-jumps-to-reach-home) |
 | [2615-sum-of-distances](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2615-sum-of-distances) |
@@ -124,12 +127,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0692-top-k-frequent-words](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0692-top-k-frequent-words) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1834-single-threaded-cpu](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1834-single-threaded-cpu) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0692-top-k-frequent-words) |
 | [1834-single-threaded-cpu](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1834-single-threaded-cpu) |
 ## Two Pointers
 |  |
@@ -153,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0692-top-k-frequent-words) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Dynamic Programming
 |  |
@@ -303,4 +309,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0692-top-k-frequent-words) |
+## Counting
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
