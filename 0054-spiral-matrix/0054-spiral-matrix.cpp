@@ -1,36 +1,24 @@
 class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
-        int rowStart=0,rowEnd=matrix.size()-1;
-        int colStart=0,colEnd=matrix[0].size()-1;
+        vector<vector<int>> dir={{0,1},{1,0},{0,-1},{-1,0}};
 
         vector<int> ans;
-        while(rowStart<rowEnd && colStart<colEnd){
-            for(int i=colStart;i<=colEnd;i++){
-                ans.push_back(matrix[rowStart][i]);
-            }
-            rowStart++;
-            for(int i=rowStart;i<=rowEnd;i++){
-                ans.push_back(matrix[i][colEnd]);
-            }
-            colEnd--;
-            for(int i=colEnd;i>=colStart;i--){
-                ans.push_back(matrix[rowEnd][i]);
-            }
-            rowEnd--;
-            for(int i=rowEnd;i>=rowStart;i--){
-                ans.push_back(matrix[i][colStart]);
-            }
-            colStart++;
-        }
-        if(rowStart==rowEnd){
-            for(int i=colStart;i<=colEnd;i++){
-                ans.push_back(matrix[rowEnd][i]);
-            }
-        }else if(colEnd==colStart){
-            for(int i=rowStart;i<=rowEnd;i++){
-                ans.push_back(matrix[i][colEnd]);
-            }
+        int n=matrix.size();
+        int m=matrix[0].size();
+
+        int cdir=0;
+        int cr=0,cc=0;
+        while(ans.size()<(n*m)){
+            ans.push_back(matrix[cr][cc]);
+            matrix[cr][cc]=10000;
+            int nr=cr+dir[cdir][0];
+            int nc=cc+dir[cdir][1];
+            if(nr==n || nc==m || nc<0 || nr<0 || matrix[nr][nc]==10000)
+                cdir=(cdir+1)%4;
+
+            cr+=dir[cdir][0];
+            cc+=dir[cdir][1];
         }
         return ans;
     }
