@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0415-add-strings) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1914-cyclically-rotating-a-grid) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2553-separate-the-digits-in-an-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Array
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-count-prefixes-of-a-given-string](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2615-sum-of-distances) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
