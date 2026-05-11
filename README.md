@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2376-count-special-integers](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2376-count-special-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2396-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2485-find-the-pivot-integer) |
+| [2544-alternating-digit-sum](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2544-alternating-digit-sum) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
