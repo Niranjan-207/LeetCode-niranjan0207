@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0059-spiral-matrix-ii) |
 | [0415-add-strings](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0415-add-strings) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1914-cyclically-rotating-a-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2553-separate-the-digits-in-an-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0059-spiral-matrix-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0084-largest-rectangle-in-histogram) |
 | [0135-candy](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0198-house-robber) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0059-spiral-matrix-ii) |
 | [0221-maximal-square](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0542-01-matrix) |
 | [0934-shortest-bridge](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0934-shortest-bridge) |
