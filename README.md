@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0788-rotated-digits) |
 | [1012-numbers-with-repeated-digits](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1012-numbers-with-repeated-digits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2376-count-special-integers](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2376-count-special-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2396-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2485-find-the-pivot-integer) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1834-single-threaded-cpu](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1834-single-threaded-cpu) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0135-candy) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2384-largest-palindromic-number](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2384-largest-palindromic-number) |
 ## Trie
 |  |
