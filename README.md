@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1654-minimum-jumps-to-reach-home) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1834-single-threaded-cpu](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1834-single-threaded-cpu) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0692-top-k-frequent-words) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1834-single-threaded-cpu](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1834-single-threaded-cpu) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0135-candy) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2384-largest-palindromic-number](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2384-largest-palindromic-number) |
