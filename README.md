@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0542-01-matrix) |
 | [0692-top-k-frequent-words](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0692-top-k-frequent-words) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0731-my-calendar-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0731-my-calendar-ii) |
 | [0740-delete-and-earn](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0740-delete-and-earn) |
 | [0934-shortest-bridge](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0934-shortest-bridge) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1043-partition-array-for-maximum-sum) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0300-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0731-my-calendar-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0731-my-calendar-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3488-closest-equal-element-queries](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3488-closest-equal-element-queries) |
 ## Sorting
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0731-my-calendar-ii) |
 | [1854-maximum-population-year](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1854-maximum-population-year) |
 | [2485-find-the-pivot-integer](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2485-find-the-pivot-integer) |
 | [2615-sum-of-distances](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2615-sum-of-distances) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0155-min-stack) |
+| [0731-my-calendar-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0731-my-calendar-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -341,4 +345,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0692-top-k-frequent-words) |
 | [1854-maximum-population-year](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1854-maximum-population-year) |
 | [2384-largest-palindromic-number](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2384-largest-palindromic-number) |
+## Segment Tree
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0731-my-calendar-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
