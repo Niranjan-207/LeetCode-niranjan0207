@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1834-single-threaded-cpu](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1834-single-threaded-cpu) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1854-maximum-population-year](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1854-maximum-population-year) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1914-cyclically-rotating-a-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1854-maximum-population-year](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1854-maximum-population-year) |
 | [2485-find-the-pivot-integer](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2485-find-the-pivot-integer) |
 | [2615-sum-of-distances](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2615-sum-of-distances) |
 ## Matrix
@@ -337,5 +339,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0692-top-k-frequent-words) |
+| [1854-maximum-population-year](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1854-maximum-population-year) |
 | [2384-largest-palindromic-number](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2384-largest-palindromic-number) |
 <!---LeetCode Topics End-->
