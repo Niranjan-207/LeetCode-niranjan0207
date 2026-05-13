@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1834-single-threaded-cpu](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1834-single-threaded-cpu) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1854-maximum-population-year](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1854-maximum-population-year) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0692-top-k-frequent-words) |
 | [0740-delete-and-earn](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0740-delete-and-earn) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1654-minimum-jumps-to-reach-home) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2384-largest-palindromic-number](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2384-largest-palindromic-number) |
 | [2615-sum-of-distances](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2615-sum-of-distances) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0732-my-calendar-iii) |
 | [1094-car-pooling](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1094-car-pooling) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1854-maximum-population-year](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1854-maximum-population-year) |
 | [2485-find-the-pivot-integer](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2485-find-the-pivot-integer) |
 | [2615-sum-of-distances](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2615-sum-of-distances) |
