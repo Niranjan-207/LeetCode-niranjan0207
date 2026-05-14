@@ -6,7 +6,7 @@ public:
         int mod=1e9+7;
         int n=nums.size();
         vector<int> fre(n);
-        for(vector<int> request:requests){
+        for(vector<int>& request:requests){
             fre[request[0]]+=1;
             if(request[1]+1<n){
                 fre[request[1]+1]-=1;
