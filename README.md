@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0692-top-k-frequent-words) |
 | [1094-car-pooling](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1094-car-pooling) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1834-single-threaded-cpu](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1834-single-threaded-cpu) |
 | [1943-describe-the-painting](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1943-describe-the-painting) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0135-candy) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0732-my-calendar-iii) |
 | [1094-car-pooling](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1094-car-pooling) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1854-maximum-population-year](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1854-maximum-population-year) |
 | [1943-describe-the-painting](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1943-describe-the-painting) |
