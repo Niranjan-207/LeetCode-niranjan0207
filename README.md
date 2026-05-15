@@ -381,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0732-my-calendar-iii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
