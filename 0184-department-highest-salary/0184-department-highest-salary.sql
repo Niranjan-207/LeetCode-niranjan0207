@@ -1,11 +1,7 @@
-SELECT dep.name AS Department,
-    emp.name AS Employee,
-    emp.salary AS Salary
+SELECT Department,Employee,Salary
+FROM
+(SELECT dep.name as Department,emp.name as Employee,Salary,
+    DENSE_RANK() OVER(PARTITION BY emp.departmentID ORDER BY emp.Salary DESC) as rnk
 FROM Employee emp
-JOIN Department dep 
-    ON emp.departmentID=dep.id
-WHERE emp.salary=(
-    SELECT MAX(salary)
-    FROM Employee
-    WHERE departmentID=emp.departmentID
-);
+JOIN Department dep ON emp.departmentId=dep.id) as t
+WHERE rnk=1;
