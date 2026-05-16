@@ -1,5 +1,6 @@
-SELECT DISTINCT l1.num as ConsecutiveNums
-FROM Logs l1
-JOIN Logs l2 ON l1.id=l2.id+1
-JOIN Logs l3 ON l2.id=l3.id+1
-WHERE l1.num=l2.num AND l2.num=l3.num;
+SELECT DISTINCT num as ConsecutiveNums FROM
+(SELECT num,
+    LAG (num,1) OVER(ORDER BY id) as l1,
+    LAG (num,2) OVER(ORDER BY id) as l2
+FROM Logs) as t
+WHERE l1=num AND l2=num;
