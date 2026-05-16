@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0005-longest-palindromic-substring) |
 | [0415-add-strings](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0415-add-strings) |
 | [0482-license-key-formatting](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0482-license-key-formatting) |
+| [0516-longest-palindromic-subsequence](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0516-longest-palindromic-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0542-01-matrix) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0718-maximum-length-of-repeated-subarray) |
