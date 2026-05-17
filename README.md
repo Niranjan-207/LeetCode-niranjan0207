@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1109-corporate-flight-bookings) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1306-jump-game-iii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1306-jump-game-iii) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0543-diameter-of-binary-tree) |
 | [0934-shortest-bridge](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0934-shortest-bridge) |
 | [1302-deepest-leaves-sum](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1302-deepest-leaves-sum) |
+| [1306-jump-game-iii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1302-deepest-leaves-sum](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1302-deepest-leaves-sum) |
+| [1306-jump-game-iii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1654-minimum-jumps-to-reach-home) |
