@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0511-game-play-analysis-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1251-average-selling-price](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1251-average-selling-price) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1667-fix-names-in-a-table) |
