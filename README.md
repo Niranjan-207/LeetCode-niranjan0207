@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0262-trips-and-users) |
 | [0511-game-play-analysis-i](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0511-game-play-analysis-i) |
+| [0550-game-play-analysis-iv](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0550-game-play-analysis-iv) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0626-exchange-seats](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0626-exchange-seats) |
 | [1068-product-sales-analysis-i](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1068-product-sales-analysis-i) |
