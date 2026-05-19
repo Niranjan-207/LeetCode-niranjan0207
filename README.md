@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0511-game-play-analysis-i) |
 | [0550-game-play-analysis-iv](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0585-investments-in-2016](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0585-investments-in-2016) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0626-exchange-seats](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0626-exchange-seats) |
 | [1068-product-sales-analysis-i](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1068-product-sales-analysis-i) |
