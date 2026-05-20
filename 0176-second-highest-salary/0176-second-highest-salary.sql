@@ -1,6 +1,8 @@
-SELECT(
-    SELECT DISTINCT salary
+WITH cte AS(
+    SELECT salary,
+    DENSE_RANK() OVER(ORDER BY salary DESC) AS rnk 
     FROM Employee
-    ORDER BY salary DESC
-    LIMIT 1 OFFSET 1
-) AS SecondHighestSalary;
+)
+SELECT MAX(salary) as SecondHighestSalary
+FROM cte
+WHERE rnk=2;
