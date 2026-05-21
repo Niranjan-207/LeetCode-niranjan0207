@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1193-monthly-transactions-i](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1193-monthly-transactions-i) |
 | [1251-average-selling-price](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1251-average-selling-price) |
 | [1321-restaurant-growth](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1321-restaurant-growth) |
+| [1341-movie-rating](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1527-patients-with-a-condition) |
