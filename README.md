@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2540-minimum-common-value) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1914-cyclically-rotating-a-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2373-largest-local-values-in-a-matrix) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 ## Depth-First Search
 |  |
