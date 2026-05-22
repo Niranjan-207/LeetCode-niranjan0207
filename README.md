@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0322-coin-change) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0396-rotate-function](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0300-longest-increasing-subsequence) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0731-my-calendar-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0732-my-calendar-iii) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0692-top-k-frequent-words) |
 | [1094-car-pooling](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1094-car-pooling) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0692-top-k-frequent-words) |
 | [1094-car-pooling](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1094-car-pooling) |
 | [1834-single-threaded-cpu](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1834-single-threaded-cpu) |
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0059-spiral-matrix-ii) |
 | [0221-maximal-square](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0221-maximal-square) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0542-01-matrix) |
 | [0934-shortest-bridge](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0934-shortest-bridge) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1091-shortest-path-in-binary-matrix) |
