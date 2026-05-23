@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0788-rotated-digits) |
 | [1012-numbers-with-repeated-digits](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1012-numbers-with-repeated-digits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2063-vowels-of-all-substrings](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2063-vowels-of-all-substrings) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2376-count-special-integers](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2376-count-special-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2396-strictly-palindromic-number) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2063-vowels-of-all-substrings](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2063-vowels-of-all-substrings) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2384-largest-palindromic-number](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2384-largest-palindromic-number) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [2063-vowels-of-all-substrings](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2063-vowels-of-all-substrings) |
 | [2376-count-special-integers](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2376-count-special-integers) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3660-jump-game-ix) |
@@ -456,4 +459,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1757-recyclable-and-low-fat-products](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1757-recyclable-and-low-fat-products) |
 | [1890-the-latest-login-in-2020](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1890-the-latest-login-in-2020) |
 | [1934-confirmation-rate](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1934-confirmation-rate) |
+## Combinatorics
+|  |
+| ------- |
+| [2063-vowels-of-all-substrings](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2063-vowels-of-all-substrings) |
 <!---LeetCode Topics End-->
