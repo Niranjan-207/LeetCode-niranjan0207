@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1306-jump-game-iii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1306-jump-game-iii) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1340-jump-game-v](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0692-top-k-frequent-words) |
 | [1094-car-pooling](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1094-car-pooling) |
+| [1340-jump-game-v](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1340-jump-game-v) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1340-jump-game-v](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1340-jump-game-v) |
 | [2063-vowels-of-all-substrings](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2063-vowels-of-all-substrings) |
 | [2376-count-special-integers](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2376-count-special-integers) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
