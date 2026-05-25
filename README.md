@@ -451,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0585-investments-in-2016](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0585-investments-in-2016) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0626-exchange-seats](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0626-exchange-seats) |
+| [0627-swap-sex-of-employees](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1068-product-sales-analysis-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1174-immediate-food-delivery-ii) |
