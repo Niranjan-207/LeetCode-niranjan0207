@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0577-employee-bonus) |
 | [0585-investments-in-2016](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0585-investments-in-2016) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
+| [0620-not-boring-movies](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1068-product-sales-analysis-i) |
