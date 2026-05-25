@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1871-jump-game-vii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1871-jump-game-vii) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2063-vowels-of-all-substrings](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2063-vowels-of-all-substrings) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1340-jump-game-v](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1340-jump-game-v) |
+| [1871-jump-game-vii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1871-jump-game-vii) |
 | [2063-vowels-of-all-substrings](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2063-vowels-of-all-substrings) |
 | [2376-count-special-integers](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2376-count-special-integers) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1854-maximum-population-year](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1854-maximum-population-year) |
+| [1871-jump-game-vii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1871-jump-game-vii) |
 | [1943-describe-the-painting](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1943-describe-the-painting) |
 | [2485-find-the-pivot-integer](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2485-find-the-pivot-integer) |
 | [2615-sum-of-distances](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2615-sum-of-distances) |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1871-jump-game-vii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1871-jump-game-vii) |
 ## Rolling Hash
 |  |
 | ------- |
