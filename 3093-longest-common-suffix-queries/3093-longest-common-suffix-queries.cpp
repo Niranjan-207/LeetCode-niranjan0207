@@ -1,7 +1,7 @@
 class Solution {
 public:
     using ull=unsigned long long;
-    static const ull BASE = 1315423911ULL;
+    static const ull BASE = 131ULL;
 
     vector<int> stringIndices(vector<string>& wordsContainer, vector<string>& wordsQuery) {
         int n=wordsContainer.size();
