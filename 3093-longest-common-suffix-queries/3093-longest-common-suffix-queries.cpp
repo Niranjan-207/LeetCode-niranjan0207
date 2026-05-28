@@ -22,15 +22,12 @@ public:
                 if(!mp.count(h) || wordsContainer[mp[h]].length()>s.length()){
                     mp[h]=i;
                 }
-                // else{
-                //     if(wordsContainer[mp[temp]].length()>s.length())    mp[temp]=i;
-                // }
             }
         }
         vector<int> ans(wordsQuery.size());
 
         for(int j=0;j<wordsQuery.size();j++){
-            string s=wordsQuery[j];
+            string& s=wordsQuery[j];
             int best=small;
             ull h=0;
             for(int i=s.length()-1;i>=0;i--){
