@@ -11,7 +11,7 @@ public:
         }
 
         unordered_map<ull,int> mp;
-        
+        mp.reserve(100000);
         for(int i=0;i<n;i++){
             string& s=wordsContainer[i];
             
