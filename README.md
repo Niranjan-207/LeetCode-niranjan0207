@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1871-jump-game-vii) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2063-vowels-of-all-substrings](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2063-vowels-of-all-substrings) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2384-largest-palindromic-number](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2384-largest-palindromic-number) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0415-add-strings) |
 | [1094-car-pooling](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1094-car-pooling) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1914-cyclically-rotating-a-grid) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2553-separate-the-digits-in-an-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Array
