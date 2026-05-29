@@ -1,7 +1,7 @@
 # Write your MySQL query statement below
 WITH CTE AS(
     SELECT person_name,
-        SUM(weight) OVER(ORDER BY turn ROWS BETWEEN UNBOUNDED PRECEDING AND CURRENT ROW) as csum
+        SUM(weight) OVER(ORDER BY turn ) as csum
     FROM Queue
 )
 SELECT person_name
