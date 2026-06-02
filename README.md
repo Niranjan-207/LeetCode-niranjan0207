@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3488-closest-equal-element-queries](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3488-closest-equal-element-queries) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3660-jump-game-ix](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3660-jump-game-ix) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2540-minimum-common-value) |
 | [3161-block-placement-queries](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3161-block-placement-queries) |
 | [3488-closest-equal-element-queries](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3488-closest-equal-element-queries) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2126-destroying-asteroids) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2784-check-if-array-is-good](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2784-check-if-array-is-good) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2396-strictly-palindromic-number) |
 | [2540-minimum-common-value](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String Matching
 |  |
 | ------- |
@@ -241,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2384-largest-palindromic-number](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2384-largest-palindromic-number) |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3002-maximum-size-of-a-set-after-removals) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Trie
 |  |
 | ------- |
