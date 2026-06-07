@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2126-destroying-asteroids) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1654-minimum-jumps-to-reach-home](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1943-describe-the-painting](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1943-describe-the-painting) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2384-largest-palindromic-number](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2384-largest-palindromic-number) |
 | [2540-minimum-common-value](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2615-sum-of-distances) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0543-diameter-of-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1302-deepest-leaves-sum) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0543-diameter-of-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1302-deepest-leaves-sum) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Sliding Window
 |  |
