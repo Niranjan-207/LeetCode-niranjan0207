@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3660-jump-game-ix](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3660-jump-game-ix) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3933-largest-local-values-in-a-matrix-ii) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0692-top-k-frequent-words) |
 | [1094-car-pooling](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1094-car-pooling) |
 | [1834-single-threaded-cpu](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1834-single-threaded-cpu) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3002-maximum-size-of-a-set-after-removals) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Trie
 |  |
 | ------- |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0732-my-calendar-iii) |
 | [3161-block-placement-queries](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3161-block-placement-queries) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Ordered Set
 |  |
 | ------- |
