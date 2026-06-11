@@ -35,7 +35,7 @@ public:
                 int cur=q.front();
                 q.pop();
 
-                for(int ch:graph[cur]){
+                for(int& ch:graph[cur]){
                     if(!vis[ch]){
                         vis[ch]=true;
                         q.push(ch);
