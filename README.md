@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2544-alternating-digit-sum](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2544-alternating-digit-sum) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1302-deepest-leaves-sum) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
