@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0543-diameter-of-binary-tree) |
 | [0934-shortest-bridge](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0934-shortest-bridge) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0322-coin-change) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0207-course-schedule) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1129-shortest-path-with-alternating-colors) |
 ## Stack
 |  |
@@ -549,4 +552,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3161-block-placement-queries) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
