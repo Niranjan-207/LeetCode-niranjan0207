@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0731-my-calendar-ii) |
 | [0740-delete-and-earn](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0740-delete-and-earn) |
 | [0934-shortest-bridge](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0934-shortest-bridge) |
+| [0994-rotting-oranges](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0994-rotting-oranges) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1043-partition-array-for-maximum-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1094-car-pooling) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0542-01-matrix) |
 | [0934-shortest-bridge](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0934-shortest-bridge) |
+| [0994-rotting-oranges](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0542-01-matrix) |
 | [0934-shortest-bridge](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0934-shortest-bridge) |
+| [0994-rotting-oranges](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1302-deepest-leaves-sum](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1302-deepest-leaves-sum) |
