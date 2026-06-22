@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2384-largest-palindromic-number](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2384-largest-palindromic-number) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1943-describe-the-painting](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1943-describe-the-painting) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2384-largest-palindromic-number](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2384-largest-palindromic-number) |
 | [2540-minimum-common-value](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2615-sum-of-distances) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1189-maximum-number-of-balloons) |
 | [1854-maximum-population-year](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1854-maximum-population-year) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2384-largest-palindromic-number](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2384-largest-palindromic-number) |
 ## Segment Tree
 |  |
