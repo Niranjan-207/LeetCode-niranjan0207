@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3660-jump-game-ix) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3838-weighted-word-mapping) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3488-closest-equal-element-queries) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Binary Search
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2615-sum-of-distances) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 ## Matrix
 |  |
@@ -507,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3161-block-placement-queries) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -590,4 +595,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
