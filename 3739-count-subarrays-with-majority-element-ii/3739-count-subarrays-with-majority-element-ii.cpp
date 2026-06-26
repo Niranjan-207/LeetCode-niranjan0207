@@ -9,7 +9,7 @@ public:
 
         ll validPoints=0,ans=0;
 
-        for(int num:nums){
+        for(int& num:nums){
             if(num==target){
                 validPoints+=mp[cumSum];
                 cumSum++;
