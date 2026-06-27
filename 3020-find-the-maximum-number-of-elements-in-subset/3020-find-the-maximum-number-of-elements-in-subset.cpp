@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maximumLength(vector<int>& nums) {
-        map<int,int> mp;
+        unordered_map<int,int> mp;
         for(int num:nums)   mp[num]++;
 
         int ans=0;
@@ -17,7 +17,7 @@ public:
             
             long long base=num;
             int cnt=0;
-            while(mp[base]>=2 && !(base > INT_MAX / base) && mp[base*base]>=1 && base<ma){
+            while(!(base > INT_MAX / base) && mp[base]>=2 && mp.count((int)(base * base)) && base<ma){
                 cnt+=2;
                 base*=base;
             }
