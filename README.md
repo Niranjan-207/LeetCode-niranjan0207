@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0059-spiral-matrix-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0084-largest-rectangle-in-histogram) |
+| [0128-longest-consecutive-sequence](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0128-longest-consecutive-sequence) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Brainteaser
