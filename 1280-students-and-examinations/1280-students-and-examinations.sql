@@ -1,10 +1,19 @@
-WITH cte AS(
-    SELECT st.student_id as student_id,st.student_name AS student_name,sub.subject_name AS subject_name
-    FROM Students st
+# Write your MySQL query statement below
+WITH allStu AS(
+    SELECT s.student_id,s.student_name,sub.subject_name
+    FROM Students s
     CROSS JOIN Subjects sub
+),
+
+
+CTE AS(
+    SELECT student_id,subject_name,COUNT(*) AS attended_exams
+    FROM Examinations
+    GROUP BY student_id,subject_name
 )
-SELECT c.student_id,c.student_name,c.subject_name,COUNT(e.student_id) AS attended_exams
-FROM cte c
-LEFT JOIN Examinations e on e.subject_name=c.subject_name AND e.student_id = c.student_id
-GROUP BY c.student_id,c.student_name,c.subject_name
-ORDER BY c.student_id,c.subject_name;
+
+SELECT s.student_id,s.student_name,s.subject_name,COALESCE(t.attended_exams,0) as attended_exams
+FROM allStu s
+LEFT JOIN CTE t ON s.student_id=t.student_id
+AND s.subject_name = t.subject_name
+ORDER BY s.student_id,s.subject_name;
