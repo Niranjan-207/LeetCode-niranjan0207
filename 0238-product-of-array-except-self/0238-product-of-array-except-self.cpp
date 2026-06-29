@@ -1,28 +1,20 @@
 class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
-        long long pro=1;
-        int cnt0=0;
-        for(int num:nums){
-            if(num==0)  cnt0++;
-            else    pro*=num;
-        }
-
         int n=nums.size();
-        vector<int> ans(n,0);
-        if(cnt0>1){
-            return ans;
+        vector<int> pre(n,1);
+        for(int i=1;i<n;i++){
+            pre[i]=pre[i-1]*nums[i-1];
         }
 
+        vector<int> suf(n,1);
+        for(int i=n-2;i>=0;i--){
+            suf[i]=suf[i+1]*nums[i+1];
+        }
+
+        vector<int> ans(n);
         for(int i=0;i<n;i++){
-            if(cnt0==1 && nums[i]!=0){
-                ans[i]=0;
-            }
-            else if(nums[i]==0){
-                ans[i]=pro;
-            }else{
-                ans[i]=pro/nums[i];
-            }
+            ans[i]=pre[i]*suf[i];
         }
         return ans;
     }
