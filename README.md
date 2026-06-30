@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0415-add-strings) |
 | [0482-license-key-formatting](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0482-license-key-formatting) |
 | [0516-longest-palindromic-subsequence](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0567-permutation-in-string](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0692-top-k-frequent-words) |
 | [0740-delete-and-earn](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0740-delete-and-earn) |
 | [1189-maximum-number-of-balloons](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1189-maximum-number-of-balloons) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0005-longest-palindromic-substring) |
 | [0061-rotate-list](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0061-rotate-list) |
+| [0567-permutation-in-string](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0567-permutation-in-string) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0567-permutation-in-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1871-jump-game-vii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1871-jump-game-vii) |
 ## Rolling Hash
