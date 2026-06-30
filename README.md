@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0049-group-anagrams) |
 | [0415-add-strings](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0424-longest-repeating-character-replacement) |
 | [0482-license-key-formatting](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0482-license-key-formatting) |
 | [0516-longest-palindromic-subsequence](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0567-permutation-in-string) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0692-top-k-frequent-words) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0567-permutation-in-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1871-jump-game-vii](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/1871-jump-game-vii) |
