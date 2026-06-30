@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0206-reverse-linked-list) |
 | [0233-number-of-digit-one](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0233-number-of-digit-one) |
 ## Backtracking
 |  |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0061-rotate-list) |
+| [0206-reverse-linked-list](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/0206-reverse-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Niranjan-207/LeetCode-niranjan0207/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
